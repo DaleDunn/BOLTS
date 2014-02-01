@@ -7,4 +7,5 @@ output/openscad/*
 output/solidworks/*
 output/connectordrawings/*
 .sass-cache
+~*.*
 _site
